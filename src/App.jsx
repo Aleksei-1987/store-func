@@ -1,7 +1,7 @@
 import React from 'react';
 import ShopItemFunc from './ShopItemFunc';
 import './App.css';
-import './img/item-black.jpg'
+
 
 const App = () => {
   const item = {

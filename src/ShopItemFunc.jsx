@@ -1,6 +1,5 @@
 import React from 'react';
 
-// компонент
 const ShopItemFunc = ({ item }) => {
   const { brand, title, description, descriptionFull, price, currency } = item;
 
